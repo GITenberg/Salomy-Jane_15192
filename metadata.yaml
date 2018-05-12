@@ -1,0 +1,46 @@
+_repo: Salomy-Jane_15192
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Keller, Arthur Ignatius
+    aliases:
+    - Keller, A. I. (Arthur Ignatius)
+    - Keller, Arthur I.
+    birthdate: 1866
+    deathdate: 1924
+    gutenberg_agent_id: '7429'
+    url: http://www.gutenberg.org/2009/agents/7429
+  - agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_bookshelf: Movie Books
+gutenberg_issued: '2005-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15192'
+  lccn: '10023748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Robbers and outlaws -- Fiction'
+title: Salomy Jane
+url: http://www.gutenberg.org/ebooks/15192
